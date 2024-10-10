@@ -3,4 +3,4 @@
 ## Dynamic Host Configuration Protocol
 Dynamic host configuration protocol (DHCP)
 
-[Definition](../definitions/definitions_D.md#dynamic-host-configuration-protocol)
+> [Definition](../definitions/definitions_D.md#dynamic-host-configuration-protocol)

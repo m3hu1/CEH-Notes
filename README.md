@@ -1,6 +1,8 @@
 # CEH v12 Notes
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0bb6b487-42e4-4ccc-8709-ea0b6e8b5a93/deploy-status)](https://app.netlify.com/sites/cehnotes/deploys)
 ## About
+
 - Welcome to the study notes for the EC-Council Certified Ethical Hacker (C|EH) v12 exam! This collection has been thoughtfully created by [@Mehul](https://github.com/m3hu1) as a fork of the original notes by FindMeAndKillMe.
 
 - These notes are elegantly published using **HonKit** and hosted on **Netlify** for easy access.

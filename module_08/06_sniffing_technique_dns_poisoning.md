@@ -3,8 +3,8 @@
 ## DNS poisoning
 Domain name system (DNS)
 
-[Definition](../definitions/definitions_D.md#domain-name-system)
+> [Definition](../definitions/definitions_D.md#domain-name-system)
 
 DNS spoofing
 
-[Definition](../definitions/definitions_D.md#domain-name-system-spoofing)
+> [Definition](../definitions/definitions_D.md#domain-name-system-spoofing)

@@ -15,36 +15,36 @@ In particular, against phishing
 
 Data loss prevention (DLP)
 
-[Definition](../definitions/definitions_D.md#data-loss-prevention)
+> [Definition](../definitions/definitions_D.md#data-loss-prevention)
 
 Intrusion detection system (IDS)
 
-[Definition](../definitions/definitions_I.md#intrusion-detection-system)
+> [Definition](../definitions/definitions_I.md#intrusion-detection-system)
 
 Splunk
 
-[Definition](../definitions/definitions_S.md#splunk)
+> [Definition](../definitions/definitions_S.md#splunk)
 
 Security information and event management (SIEM)
 
-[Definition](../definitions/definitions_S.md#security-information-and-event-management)
+> [Definition](../definitions/definitions_S.md#security-information-and-event-management)
 
 Separation of duties
 
-[Definition](../definitions/definitions_S.md#separation-of-duties)
+> [Definition](../definitions/definitions_S.md#separation-of-duties)
 
 Least privilege
 
-[Definition](../definitions/definitions_L.md#least-privilege)
+> [Definition](../definitions/definitions_L.md#least-privilege)
 
 Background check
 
-[Definition](../definitions/definitions_B.md#background-check)
+> [Definition](../definitions/definitions_B.md#background-check)
 
 Defense-in-depth
 
-[Definition](../definitions/definitions_D.md#defense-in-depth)
+> [Definition](../definitions/definitions_D.md#defense-in-depth)
 
 Zero trust
 
-[Definition](../definitions/definitions_Z.md#zero-trust)
+> [Definition](../definitions/definitions_Z.md#zero-trust)

@@ -2,4 +2,4 @@
 
 ## Advanced Persistent Threats (APT)
 
-[Definition](../definitions/definitions_A.md#advanced-persistent-threat)
+> [Definition](../definitions/definitions_A.md#advanced-persistent-threat)

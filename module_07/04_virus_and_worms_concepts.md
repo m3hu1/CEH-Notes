@@ -3,16 +3,16 @@
 ## Viruses and Worms
 Virus
 
-[Definition](../definitions/definitions_V.md#virus)
+> [Definition](../definitions/definitions_V.md#virus)
 
 Logic bomb
 
-[Definition](../definitions/definitions_L.md#logic-bomb)
+> [Definition](../definitions/definitions_L.md#logic-bomb)
 
 Virus hoax
  
-[Definition](../definitions/definitions_V.md#virus-hoax)
+> [Definition](../definitions/definitions_V.md#virus-hoax)
 
 Worm
 
-[Definition](../definitions/definitions_W.md#worm)
+> [Definition](../definitions/definitions_W.md#worm)

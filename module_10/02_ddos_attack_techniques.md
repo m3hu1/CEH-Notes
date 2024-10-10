@@ -18,4 +18,4 @@ In these attacks, similar to SYN flood infrastructure attacks, the attacker atte
 ### Syn Flood Attack
 Syn flood attack
 
-[Definition](../definitions/definitions_S.md#syn-flood-attack)
+> [Definition](../definitions/definitions_S.md#syn-flood-attack)

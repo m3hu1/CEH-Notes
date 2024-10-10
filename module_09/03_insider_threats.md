@@ -2,4 +2,4 @@
 
 ## Insider Threats
 
-[Definition](../definitions/definitions_I.md#insider-threat)
+> [Definition](../definitions/definitions_I.md#insider-threat)
