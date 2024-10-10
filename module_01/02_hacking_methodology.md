@@ -30,7 +30,7 @@ Privilege escalation
 
 Vulnerability assessment
 
-[Definition](../definitions/definitions_V.md#vulnerability-assesment)
+[Definition](../definitions/definitions_V.md#vulnerability-assessment)
 
 ## Cyber Kill Chain
 Cyber kill chain
