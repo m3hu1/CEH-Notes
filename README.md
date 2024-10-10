@@ -10,7 +10,7 @@
 ## Thank You!
 - ⭐ If you find these notes valuable, please consider starring the repository to show your support!
 
-- 🙌 Contributions are greatly appreciated! Feel free to enhance this resource by submitting a [pull request](https://github.com/m3hu1/CEH-v12-Notes/pulls). A list of contributors will be maintained to recognize your efforts.
+- 🙌 Contributions are greatly appreciated! Feel free to to check out the [repo](https://github.com/m3hu1/CEH-Notes) and enhance this resource by submitting a [pull request](https://github.com/m3hu1/CEH-Notes/pulls). A list of contributors will be maintained to recognize your efforts.
 
 ## Modules
 
