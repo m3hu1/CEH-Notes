@@ -12,7 +12,7 @@
 * [05: Information Security Laws](module_01/05_information_security_laws.md)
 * [TryHackMe](module_01/tryhackme.md)
 
-## Module 02: Footprinting
+## Module 02: Footprinting and Reconnaissance
 * [01: Footprinting Concepts](module_02/01_footprinting_concepts.md)
 * [02: Footprinting through Search Engines](module_02/02_footprinting_through_search_engines.md)
 * [03: Footprinting through Web Services](module_02/03_footprinting_through_web_services.md)
@@ -23,7 +23,7 @@
 * [08: Footprinting Tools and Countermeasures](module_02/08_footprinting_tools_and_countermeasures.md)
 * [TryHackMe](module_02/tryhackme.md)
 
-## Module 03: Scanning
+## Module 03: Scanning Networks
 * [01: Network Scanning Concepts](module_03/01_network_scanning_concepts.md)
 * [02: Host Discovery](module_03/02_host_discovery.md)
 * [03: Port and Service Discovery](module_03/03_port_and_service_discovery.md)
@@ -42,20 +42,20 @@
 * [07: Other Enumeration Techniques](module_04/07_other_enumeration_techniques.md)
 * [TryHackMe](module_04/tryhackme.md)
 
-## Module 05: Vulnerability Assessment
+## Module 05: Vulnerability Analysis
 * [01: Vulnerability Assessment Concepts](module_05/01_vulnerability_assessment_concepts.md)
 * [02: Vulnerability Classification](module_05/02_vulnerability_classification.md)
 * [03: Vulnerability Assessment Tools](module_05/03_vulnerability_assessment_tools.md)
 * [TryHackMe](module_05/tryhackme.md)
 
-## Module 06: Gaining Access
+## Module 06: System Hacking
 * [01: Gaining Access](module_06/01_gaining_access.md)
 * [02: Privilege Escalation](module_06/02_privilege_escalation.md)
 * [03: Maintaining Access](module_06/03_maintaining_access.md)
 * [04: Clearing Logs](module_06/04_clearing_logs.md)
 * [TryHackMe](module_06/tryhackme.md)
 
-## Module 07: Malware
+## Module 07: Malware Threats
 * [01: Malware Concepts](module_07/01_malware_concepts.md)
 * [02: APT Concepts](module_07/02_apt_concepts.md)
 * [03: Trojan Concepts](module_07/03_trojan_concepts.md)
@@ -83,7 +83,7 @@
 * [05: Social Engineering Countermeasures](module_09/05_social_engineering_countermeasures.md)
 * [TryHackMe](module_09/tryhackme.md)
 
-## Module 10: DDoS Attacks
+## Module 10: Denial-of-Service
 * [01: DoS and DDoS Concepts](module_10/01_dos_ddos_concepts.md)
 * [02: DDoS Attack Techniques](module_10/02_ddos_attack_techniques.md)
 * [03: DDoS Attack Countermeasures](module_10/03_ddos_attack_countermeasures.md)

@@ -1,4 +1,4 @@
-# CEH v12
+# CEH v12 Notes
 
 ## About
 - Welcome to the study notes for the EC-Council Certified Ethical Hacker (C|EH) v12 exam! This collection has been thoughtfully created by [@Mehul](https://github.com/m3hu1) as a fork of the original notes by FindMeAndKillMe.
